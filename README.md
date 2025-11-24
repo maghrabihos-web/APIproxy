@@ -8,6 +8,6 @@
 ```
 app.use(cors({ origin: "http://yourdomain.com" }));
 ```
-
-4. Start the server by running `npm start`
-5. Open this link using (ctrl + click) http://localhost:3400/
+4. Rename the ENVFile.txt to .env file
+5. Start the server by running `npm start`
+6. Open this link using (ctrl + click) http://localhost:3400/
