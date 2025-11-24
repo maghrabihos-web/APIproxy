@@ -1,4 +1,4 @@
-# Proxy server to validate phone number using https://numverify.com/ API
+# An API proxy to validate phone number using https://numverify.com/ API
 
 ## Getting Started
 
